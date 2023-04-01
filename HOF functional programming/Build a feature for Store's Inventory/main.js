@@ -1,3 +1,5 @@
+// Converting Store Items Rate Exchange USD To Rupees
+
 const store = {
     toys: 5,
     pot: 3,
